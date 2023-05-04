@@ -16,10 +16,6 @@ The module that I will be covering is **Practical Deep Learning** that teaches h
 
 The table below summarises the topics that will be covered in this BlogSite.
 
-| Column 1 | Column 2 |
-|-|-|
-| A thing | Another thing |
-
 | Topic | Post Name | Complete |
 | ------ | -------- | ------- |
 | Getting started | ... | ❌ |
@@ -31,4 +27,3 @@ The table below summarises the topics that will be covered in this BlogSite.
 | Collaborative filtering | ... | ❌ |
 | Convolutions (CNNs) | ... | ❌ | 
 | Data Ethics | ... | ❌ |
-
