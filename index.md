@@ -15,8 +15,13 @@ The module that I will be covering is **Practical Deep Learning** that teaches h
 </ul>
 
 The table below summarises the topics that will be covered in this BlogSite.
+
+| Column 1 | Column 2 |
+|-|-|
+| A thing | Another thing |
+
 | Topic | Post Name | Complete |
-| ------| -------- | ------- |
+| ------ | -------- | ------- |
 | Getting started | ... | ❌ |
 | Deployment | ... | ❌ |
 | Neural net foundations | ... | ❌ |
