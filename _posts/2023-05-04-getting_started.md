@@ -23,7 +23,22 @@ Deep Learning has many applications, areas including physical sciences, the arts
 | Robotics | Handling objects that are challenging to locate (e.g., transparent, shiny, lacking texture) or hard to pick up |
 | Other Applications | Financial and logistical forecasting, text to speech, and much more... |
 
+## Neural Networks
+Neural networks are a type of computing system that is modeled after the structure and function of the human brain. They are composed of layers of interconnected processing nodes or "neurons" that work together to perform a specific computational task.
 
+Each neuron in a neural network receives one or more inputs and applies a mathematical function to those inputs to produce an output. The outputs of one layer of neurons are used as inputs to the next layer, and so on, until the final output is produced.
+
+Neural networks are often used in machine learning to learn patterns and relationships in data, such as identifying objects in images or predicting the likelihood of a particular outcome based on a set of inputs. During the training process, the network adjusts the strengths of the connections between neurons to improve its ability to accurately make predictions on new, unseen data.
+
+There are many different types of neural networks, including feedforward neural networks, convolutional neural networks, and recurrent neural networks. Each type of network is optimized for a specific type of problem or data structure.
+
+## Software Explanations
+The table below summarises the software that will be used when conducting deep learning. 
+| Software | Description |
+| ----- | ----- |
+| PyTorch | PyTorch is an open-source machine learning library that is primarily used for building deep neural networks. It was developed by Facebook's AI research team and is based on the Torch library, which is a scientific computing framework for Lua programming language. PyTorch provides a range of tools and modules that make it easy to build and train complex neural networks, including support for automatic differentiation, which makes it easy to compute gradients and optimize models. It also provides support for distributed computing and allows models to be run on GPUs and other accelerators. |
+| fastai | Fastai is a high-level open-source deep learning library that is built on top of PyTorch. It was developed by Jeremy Howard and Sylvain Gugger, who are both well-known experts in the field of deep learning. |
+| Jupyter | Jupyter is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations, and narrative text. The name "Jupyter" is a combination of the three programming languages it supports: Julia, Python, and R. |
 
 ## Video Notes
 <ul>
