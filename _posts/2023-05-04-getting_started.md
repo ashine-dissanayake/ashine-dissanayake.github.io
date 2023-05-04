@@ -3,6 +3,28 @@
 ## Setting up Kaggle 
 Kaggle provides a platform for data scientists, machine learning engineers, and other practitioners to collaborate and compete on solving complex data science problems. 
 
+## Myth Buster
+The three following myths are not required when conducting deep learning. (1) Do not need a lot of math (max. highschool math is sufficient) (2) Do not need a lot of data (we've seen record breaking results with <50 items of data) (3) Do not need a lot of expensive computers (you can get what you need for state of the art work for free).
+
+## Deep Learning
+Deep learning is a computer technique to extract and transform data by using multiple layers of neural networks. The term “deep” refers to the fact that these N.N. are typically composed of many layers, which allow the, to learn hierarchical representations of data. Each layer receives inputs from the previous layer alongside weights, to progressively refine them. 
+
+Deep Learning has many applications, areas including physical sciences, the arts, medicine, finances, scientific research, etc. The table below summarises the various disciplines (sourced from the video). 
+
+| Disciplines | Example Applications |
+| ----- | ----- |
+| Natural Language Processing (NLP) | Answering questions; speech recognition; summarizing documents; classifying documents; finding names, dates, etc. in documents; searching for articles mentioning a concept |
+| Computer Vision | Satellite and drone imagery interpretation (e.g., for disaster resilience); face recognition; image captioning; reading traffic signs; locating pedestrians and vehicles in autonomous vehicles |
+| Medicine | Finding anomalies in radiology images, including CT, MRI, and X-ray images; counting features in pathology slides; measuring features in ultrasounds; diagnosing diabetic retinopathy |
+| Biology | Folding proteins; classifying proteins; many genomics tasks, such as tumor-normal sequencing and classifying clinically actionable genetic mutations; cell classification; analyzing protein/protein interactions |
+| Image Generation | Colorizing images; increasing image resolution; removing noise from images; converting images to art in the style of famous artists 
+| Recommendation Systems | Web search; product recommendations; home page layout |
+| Playing Games | Chess, Go, most Atari video games, and many real-time strategy games |
+| Robotics | Handling objects that are challenging to locate (e.g., transparent, shiny, lacking texture) or hard to pick up |
+| Other Applications | Financial and logistical forecasting, text to speech, and much more... |
+
+
+
 ## Video Notes
 <ul>
   <li>Ran through bird vs forest model. </li>
