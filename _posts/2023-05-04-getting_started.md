@@ -34,6 +34,7 @@ There are many different types of neural networks, including feedforward neural 
 
 ## Software Explanations
 The table below summarises the software that will be used when conducting deep learning. 
+
 | Software | Description |
 | ----- | ----- |
 | PyTorch | PyTorch is an open-source machine learning library that is primarily used for building deep neural networks. It was developed by Facebook's AI research team and is based on the Torch library, which is a scientific computing framework for Lua programming language. PyTorch provides a range of tools and modules that make it easy to build and train complex neural networks, including support for automatic differentiation, which makes it easy to compute gradients and optimize models. It also provides support for distributed computing and allows models to be run on GPUs and other accelerators. |
