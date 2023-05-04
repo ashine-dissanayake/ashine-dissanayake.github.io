@@ -8,18 +8,18 @@ Fast.ai is an **open-source deep learning library** and an online course created
 ## <span style="color: rgb(84, 164, 162)">Overview</span> 
 The module that I will be covering is **Practical Deep Learning** that teaches how to apply machine learning and deep learning techniques to problems. THe course highlights the following concepts. 
 <ul>
-  <li>First item</li>
-  <li>Second item</li>
-  <li>Third item</li>
-  <li>Fourth item</li>
+  <li>Build and train different deep learning models used for computer vision, natural learning processing, tabular analysis and collaborative filtering problems. </li>
+  <li>Learn and apply random forest and regression models. </li>
+  <li>Apply models in real life problems. </li>
+  <li>Documentation and exploration on PyTorch. </li>
 </ul>
 
 The table below summarises the topics that will be covered in this BlogSite.
 | Topic | Post Name | Complete |
 | -------- | ------- | ------- |
-| Getting started | $250 | ❌ |
-| Deployment | $80 | ❌ |
-| Neural net foundations | $420 | ❌ |
+| Getting started | ... | ❌ |
+| Deployment | ... | ❌ |
+| Neural net foundations | ... | ❌ |
 | Natural Language (NLP) | ... | ❌ |
 | From-scratch model | ... | ❌ |
 | Random forests | ... | ❌ |
