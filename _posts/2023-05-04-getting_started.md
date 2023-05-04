@@ -41,6 +41,50 @@ The table below summarises the software that will be used when conducting deep l
 | fastai | Fastai is a high-level open-source deep learning library that is built on top of PyTorch. It was developed by Jeremy Howard and Sylvain Gugger, who are both well-known experts in the field of deep learning. |
 | Jupyter | Jupyter is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations, and narrative text. The name "Jupyter" is a combination of the three programming languages it supports: Julia, Python, and R. |
 
+## Machine Learning 
+
+### What is Machine Learning?
+Machine learning is a subfield of artificial intelligence that involves training algorithms to learn patterns and relationships in data, and make predictions or decisions based on that learning. The goal of machine learning is to create systems that can improve their performance on a specific task over time, without being explicitly programmed to do so.
+
+There are three main types of machine learning: supervised learning, unsupervised learning, and reinforcement learning. In supervised learning, the algorithm is trained on a labeled dataset, where the correct answers are provided. The algorithm learns to map inputs to outputs based on the provided examples. In unsupervised learning, the algorithm is trained on an unlabeled dataset, and it learns to identify patterns and relationships in the data without any specific guidance. Reinforcement learning involves training an agent to learn a policy that maximizes a reward signal over time, through trial and error.
+
+###  Birds vs Forests Model
+**Steps:**
+<ul>
+  <li> Step 1: Download images of birs and non-birds. </li>
+  <ul>
+    <li> search_images - grabs however many images specified (by default 200). </li>
+    <li> Grab 200 examples of each of "bird" and "forest" photos and save each group ofphotoes to a different folder. </li>
+  </ul>
+  <li> Step 2: Train our model. </li>
+  <ul>
+    <li> Some photos might not download correctly which could cause our model training to fail, so we'll remove them. </li>
+    <li> Use verify_images will try to open an image under hte filename. If the image can be openeed, it will return True, if the file cannot be opened, it will return False. </li>
+    <li> If image cannot be opened, unlink or remove from path. </li>
+    <li> To train a model, we'll need DataLoaders, which is an object that contains a training set (the images used to create a model) and a validation set (the images used to check the accuracy of a model -- not used during training). </li>
+    
+``` cpp
+dls = DataBlock(
+    blocks=(ImageBlock, CategoryBlock), 
+    get_items=get_image_files, 
+    splitter=RandomSplitter(valid_pct=0.2, seed=42),
+    get_y=parent_label,
+    item_tfms=[Resize(192, method='squish')]
+).dataloaders(path)
+
+dls.show_batch(max_n=6)
+    
+# blocks - The inputs to our model are images, and the outputs are categories (in this case, "bird" or "forest").
+# get_items - To find all the inputs to our model, run the get_image_files function (which returns a list of all image files in a path).
+# splitter - Split the data into training and validation sets randomly, using 20% of the data for the validation set.
+# get_y - The labels (y values) is the name of the parent of each file (i.e. the name of the folder they're in, which will be bird or forest).
+# item_tfms - resize each image to 192x192 pixels.
+# Trained using `reset18`
+```   
+  </ul>
+  <li>  Step 3: Use our model </li>
+</ul>
+
 ## Video Notes
 <ul>
   <li>Ran through bird vs forest model. </li>
