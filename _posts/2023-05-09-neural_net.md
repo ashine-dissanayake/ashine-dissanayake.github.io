@@ -5,7 +5,7 @@
 
 ## Inference Results from a Pre-trained Model
 
-<img src="../images/inference.png" alt="drawing" width="750"/>
+![](../images/inference.png "Inference Graph")
 
 Observations: 
 <ul>
