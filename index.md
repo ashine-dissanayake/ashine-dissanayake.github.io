@@ -20,7 +20,7 @@ The table below summarises the topics that will be covered in this BlogSite.
 | ------ | -------- | ------- |
 | Getting started | Chapter 1: Getting Started | ✔️ |
 | Deployment | Chapter 2: Deployment | ✔️ |
-| Neural net foundations | ... | ❌ |
+| Neural net foundations | ... | ✔️ |
 | Natural Language (NLP) | ... | ❌ |
 | From-scratch model | ... | ❌ |
 | Random forests | ... | ❌ |
