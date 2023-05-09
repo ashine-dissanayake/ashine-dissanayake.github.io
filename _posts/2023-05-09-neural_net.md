@@ -9,6 +9,9 @@
 
 ![](/images/logo.png "fast.ai's logo")
 
+<img src="../images/inference.png" width="200" />
+
+
 Observations: 
 <ul>
   <li> resnet34 ~ 74% </li>
