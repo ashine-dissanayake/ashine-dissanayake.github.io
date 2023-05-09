@@ -4,7 +4,7 @@
 **timm** provides pretrained computer vision models. Note that it is similar to HuggingFace, except provides CV models not NPL model. 
 
 ## Inference Results from a Pre-trained Model
-<img src="../images/inference.png" alt="drawing" width="750"/>
+<img src="../images/inference.png" alt="drawing" width="500"/>
 Observations: 
 <ul>
   <li> resnet34 ~ 74% </li>
