@@ -7,6 +7,8 @@
 
 ![Inference Graph](../images/inference.png "Inference Graph")
 
+![](/images/logo.png "fast.ai's logo")
+
 Observations: 
 <ul>
   <li> resnet34 ~ 74% </li>
