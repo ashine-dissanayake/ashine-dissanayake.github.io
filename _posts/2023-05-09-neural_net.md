@@ -5,11 +5,11 @@
 
 ## Inference Results from a Pre-trained Model
 
-![Inference Graph](../images/inference.png "Inference Graph")
+![Inference Graph](../images/inference_fix.png "Inference Graph")
 
-![](/images/logo.png "fast.ai's logo")
+![](/images/inference_fix.png "fast.ai's logo")
 
-<img src="../images/inference.png" width="200" />
+<img src="../images/inference_fix.png" width="200" />
 
 
 Observations: 
