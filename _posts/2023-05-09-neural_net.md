@@ -5,7 +5,7 @@
 
 ## Inference Results from a Pre-trained Model
 
-![](../images/inference.png "Inference Graph")
+![Inference Graph](../images/inference.png "Inference Graph")
 
 Observations: 
 <ul>
@@ -29,7 +29,7 @@ Notes from watch recording:
 </ul>
 
 ## Automating gradient descent [using mean absolute error]
-If the gradient of our mae() function with respect to our parameters, a, b, and c, then adjusting those values will be easy. Adjust our parameters a bit in the opposite direction to the sign of the gradient.GOAL: to make that cost function as small as possible. 
+If the gradient of our mae() function with respect to our parameters, a, b, and c, then adjusting those values will be easy. Adjust our parameters a bit in the opposite direction to the sign of the gradient. GOAL: to make that cost function as small as possible. 
 
 ## Rectified linear function (ReLU)
 ...
