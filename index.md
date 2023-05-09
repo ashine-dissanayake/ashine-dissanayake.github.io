@@ -20,9 +20,9 @@ The table below summarises the topics that will be covered in this BlogSite.
 | ------ | -------- | ------- |
 | Getting started | Chapter 1: Getting Started | ✔️ |
 | Deployment | Chapter 2: Deployment | ✔️ |
-| Neural net foundations | ... | ✔️ |
-| Natural Language (NLP) | ... | ❌ |
-| From-scratch model | ... | ❌ |
+| Neural net foundations | Chapter 3: Neural net foundations | ✔️ |
+| Natural Language (NLP) | Chapter 4: Natural Language (NLP) | ✔️ |
+| From-scratch model | Chapter 5: From-scratch model | ✔️ |
 | Random forests | ... | ❌ |
 | Collaborative filtering | ... | ❌ |
 | Convolutions (CNNs) | ... | ❌ | 
