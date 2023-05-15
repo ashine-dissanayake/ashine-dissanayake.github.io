@@ -19,9 +19,9 @@ The table below summarises the topics that will be covered in this BlogSite.
 | Topic | Post Name | Complete |
 | ------ | -------- | ------- |
 | Getting started | [Chapter 1: Getting Started](_posts/2023-05-04-getting_started.md) | ✔️ |
-| Deployment | Chapter 2: Deployment | ✔️ |
-| Neural net foundations | Chapter 3: Neural net foundations | ✔️ |
-| Natural Language (NLP) | Chapter 4: Natural Language (NLP) | ✔️ |
-| From-scratch model | Chapter 5: From-scratch model | ✔️ |
+| Deployment | [Chapter 2: Deployment](_posts/2023-05-08-deployment.md) | ✔️ |
+| Neural net foundations | [Chapter 3: Neural net foundations](_posts/2023-05-09-neural_net.md) | ✔️ |
+| Natural Language (NLP) | [Chapter 4: Natural Language (NLP)](_posts/2023-05-09-NLP.md) | ✔️ |
+| From-scratch model | [Chapter 5: From-scratch model](_posts/2023-05-10-nn_model.md) | ✔️ |
 | Random forests | Chapter 6: Random Forest | ❌ |
-| Deep Learning | Deep Learning | ❌ |
+| Deep Learning | [Deep Learning](_posts/2023-05-15-deep-learning.md) | ❌ |
