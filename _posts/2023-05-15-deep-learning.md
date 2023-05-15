@@ -11,18 +11,20 @@ Note that CNN is a multilayer perceptrons. **_Multilayer Perceptron_** is a full
 
 CNN is a **_feed-forward neural network_** with around 20 to 30 layers and stacks many convolutional hidden layers on top of each other. The hidden layers comprise of many convolutional layers followed by activation function (and in some cases pooling layers). 
 
-![Image of fast.ai logo](../images/cnn-model.png)
+![](/images/cnn-model.png "CNN Model")
 
 ### Convolutional Layer
 Convolutional layers are generally square templates, which slide over the image and look for specific patterns. If the image matches the pattern, it will return postive, other it returns 0. 
 
 ### Activation Functions 
 #### Sigmoidal Function
+
 $$S(x)=\frac{1}{1 + e^{-x}}$$
 
-![Image of fast.ai logo](../images/sigmoidal.png)
+![](/images/sigmoidal.png "Sigmoidal Function")
 
 #### Rectified Linear Unit [ReLU]
+
 $$f(x)=\max{(0, x)}$$
 
 ## <span style="color: rgb(84, 164, 162)">Recurrent Neural Networks (RNNs)</span> 
