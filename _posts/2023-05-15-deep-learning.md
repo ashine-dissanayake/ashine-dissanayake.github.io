@@ -29,4 +29,6 @@ Convolutional layers are generally square templates, which slide over the image 
 ![](/images/af.jfif "Activation Functions")
 
 ## <span style="color: rgb(84, 164, 162)">Recurrent Neural Networks (RNNs)</span> 
-...
+RNNs uses sequential data or time series data. It is commonly used for language translation, natural language processing and, speech recognition, and image captioning. Some common applications inclde Siri and Google translate. RNN relies on its memory by account for previous inputs to influence the current input and output. Another dicerning characteristic of RNN is the parameters are shared acorss networks. Instead of feed-forward neural networks, RNN is a backpropagation through time. 
+
+![](/images/nn.jfif "FF vs BPTT Model")
