@@ -17,15 +17,14 @@ CNN is a **_feed-forward neural network_** with around 20 to 30 layers and stack
 Convolutional layers are generally square templates, which slide over the image and look for specific patterns. If the image matches the pattern, it will return postive, other it returns 0. 
 
 ### Activation Functions 
-#### Sigmoidal Function
-
-$$S(x)=\frac{1}{1 + e^{-x}}$$
-
-![](/images/sigmoidal.png "Sigmoidal Function")
 
 #### Rectified Linear Unit [ReLU]
+$`f(x)=\max{(0, x)}`$
 
-$$f(x)=\max{(0, x)}$$
+#### Sigmoidal Function
+$`S(x)=\frac{1}{1 + e^{-x}}`$
+
+![](/images/af.jfif "Activation Functions")
 
 ## <span style="color: rgb(84, 164, 162)">Recurrent Neural Networks (RNNs)</span> 
 ...
