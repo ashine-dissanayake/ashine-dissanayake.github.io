@@ -19,10 +19,14 @@ Convolutional layers are generally square templates, which slide over the image 
 ### Activation Functions 
 
 #### Rectified Linear Unit [ReLU]
-$`f(x)=\max{(0, x)}`$
+$$
+f(x)=\max{(0, x)}
+$$
 
 #### Sigmoidal Function
-$`S(x)=\frac{1}{1 + e^{-x}}`$
+$$
+S(x)=\frac{1}{1 + e^{-x}}
+$$
 
 ![](/images/af.jfif "Activation Functions")
 
