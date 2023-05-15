@@ -23,7 +23,5 @@ The table below summarises the topics that will be covered in this BlogSite.
 | Neural net foundations | Chapter 3: Neural net foundations | ✔️ |
 | Natural Language (NLP) | Chapter 4: Natural Language (NLP) | ✔️ |
 | From-scratch model | Chapter 5: From-scratch model | ✔️ |
-| Random forests | ... | ❌ |
-| Collaborative filtering | ... | ❌ |
-| Convolutions (CNNs) | ... | ❌ | 
-| Data Ethics | ... | ❌ |
+| Random forests | Chapter 6: Random Forest | ❌ |
+| Deep Learning | Deep Learning | ❌ |
