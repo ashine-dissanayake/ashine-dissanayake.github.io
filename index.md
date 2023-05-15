@@ -18,7 +18,7 @@ The table below summarises the topics that will be covered in this BlogSite.
 
 | Topic | Post Name | Complete |
 | ------ | -------- | ------- |
-| Getting started | Chapter 1: Getting Started | ✔️ |
+| Getting started | [Chapter 1: Getting Started](_posts/2023-05-04-getting_started.md) | ✔️ |
 | Deployment | Chapter 2: Deployment | ✔️ |
 | Neural net foundations | Chapter 3: Neural net foundations | ✔️ |
 | Natural Language (NLP) | Chapter 4: Natural Language (NLP) | ✔️ |
