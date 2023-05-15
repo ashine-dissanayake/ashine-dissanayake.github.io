@@ -24,4 +24,4 @@ The table below summarises the topics that will be covered in this BlogSite.
 | Natural Language (NLP) | [Chapter 4: Natural Language (NLP)](_posts/2023-05-09-NLP.md) | ✔️ |
 | From-scratch model | [Chapter 5: From-scratch model](_posts/2023-05-10-nn_model.md) | ✔️ |
 | Random forests | Chapter 6: Random Forest | ❌ |
-| Deep Learning | [Deep Learning](_posts/2023-05-15-deep-learning.md) | ❌ |
+| Deep Learning | [Deep Learning](_posts/2023-05-15-deep-learning.md) | ✔️ |
