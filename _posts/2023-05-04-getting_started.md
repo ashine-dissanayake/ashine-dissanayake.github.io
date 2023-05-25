@@ -86,6 +86,7 @@ dls.show_batch(max_n=6)
 # item_tfms - resize each image to 192x192 pixels.
 # Trained using `reset18`
 ```   
+      
   </ul>
   <li>  Step 3: Use our model </li>
 </ul>
