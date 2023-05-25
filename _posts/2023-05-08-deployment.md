@@ -1,5 +1,7 @@
 # **Chapter 2:** Deployment
 
+# **Chapter 2:** Deployment
+
 ## Objective
 This chapter addresses the following topics: 
 <ul>
