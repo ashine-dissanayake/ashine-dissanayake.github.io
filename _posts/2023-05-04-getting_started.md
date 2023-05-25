@@ -1,5 +1,7 @@
 # **Chapter 1:** Getting Started
 
+# **Chapter 1:** Getting Started
+
 ## Setting up Kaggle 
 Kaggle provides a platform for data scientists, machine learning engineers, and other practitioners to collaborate and compete on solving complex data science problems. 
 
